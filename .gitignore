@@ -1,0 +1,6 @@
+node_modules
+solution/package-lock.json
+solution/package.json
+solution/readme.md
+solution/TheCode.js
+solution/TheCode.test.js
